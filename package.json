@@ -10,9 +10,11 @@
   "license": "ISC",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^20.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@shelex/cypress-allure-plugin": "^2.40.1",
     "@types/node": "^20.11.18",
     "cucumber": "^6.0.7",
-    "cypress": "^13.6.4",
+    "cypress": "^12.14.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }

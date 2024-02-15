@@ -1,0 +1,11 @@
+{
+  "stepDefinitions": [
+    "cypress/e2e/1-getting-started/step_definition.ts"
+  ],
+  "html": {
+    "enabled": true
+  },
+  "messages": {
+    "enabled": true
+  }
+}
