@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "for qualification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Derevyago",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.1",
+    "@types/node": "^20.11.18",
+    "cucumber": "^6.0.7",
+    "cypress": "^13.6.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
